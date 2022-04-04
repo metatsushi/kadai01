@@ -9,7 +9,7 @@ index.htmlとindex_responsive.htmlの2パターンを作った
 
 ## ②工夫した点・こだわった点
 まずindex.htmlの方で仕様書に忠実に完成度に拘った
-- Margin、Paddingなどについては完璧に仕様書通りになるように一回設定し切った
+- Margin、Paddingなどについては最大限完璧に仕様書通りになるように一回設定し切った
 
 その上で、Responsive対応バージョン（index_responsive.html)を作成
 - 画像サイズに変化に伴って画像・テキストのサイズがスムーズに変わるようにvw表記とした
